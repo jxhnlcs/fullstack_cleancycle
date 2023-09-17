@@ -1,6 +1,9 @@
-POST http://localhost:3333/
+POST http://localhost:3333/lixos
 
-{ "nome": "Matheus",
- "email": "math@email.com",
-  "fone": "123456789",
-   "data_nascimento": "1999-02-12" }
+{
+  "nome": "Copo",
+	"bairro": "Centro",
+  "tipo": "Vidro",
+	"reciclavel": "1",
+	"radioativo": "0"
+}
