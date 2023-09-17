@@ -10,6 +10,8 @@ Um Sistema para exibir uma lista de residuos de cada bairro. Projeto desenvolvid
 
 Siga as instruções abaixo para executar o sistema em sua máquina local.
 
+1. Abra dois terminais no Visual Studio Code
+
 ### Configuração do Backend
 
 1. Navegue até a pasta do backend:
